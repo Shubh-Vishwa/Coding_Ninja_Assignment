@@ -6,7 +6,7 @@ export default class UserController {
   getRegister = (req, res, next) => {
     // Write your code here
   };
-  getLogin = (req, res, next) => {
+  getLogin = (req, res, next) => {   
     // Write your code here
   };
   addUser = (req, res) => {
